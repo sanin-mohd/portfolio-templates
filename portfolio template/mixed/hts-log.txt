@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 Sep 2021 18:34:35 at https://jthemes.net/themes/wp/bolby/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jthemes.net/themes/wp/bolby/ -O1 "C:\My Web Sites\per" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:35:49	Error: 	"Method Not Allowed" (405) at link https://jthemes.net/themes/wp/bolby/xmlrpc.php (from https://jthemes.net/themes/wp/bolby/)
+18:36:37	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/webfonts/fa-brands-400.woff2
+18:36:37	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/webfonts/fa-regular-400.woff2
+18:36:37	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/webfonts/fa-solid-900.woff2
+18:36:38	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/fonts/Simple-Line-Icons.woff2?v=2.4.0
+18:36:39	Error: 	"Not Found" (404) at link https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/images/map.svg (from https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/css/style.css?ver=5.7.3)
+18:36:39	Error: 	"Not Found" (404) at link https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/images/map-light.png (from https://jthemes.net/themes/wp/bolby/wp-content/themes/bolby/css/style.css?ver=5.7.3)
+18:36:39	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+18:36:39	Error: 	"Not Found" (404) at link https://jthemes.net/themes/wp/bolby/2/ (from https://jthemes.net/themes/wp/bolby/page/2/)
+18:36:44	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/?p=249
+18:36:44	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/?p=249 to https://jthemes.net/themes/wp/bolby/blog/2020/02/28/5-best-app-development-tool-for-your-project/
+18:36:44	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/?p=248
+18:36:44	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/?p=248 to https://jthemes.net/themes/wp/bolby/blog/2020/02/28/common-misconceptions-about-payment/
+18:36:44	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/?p=302
+18:36:44	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/?p=302 to https://jthemes.net/themes/wp/bolby/blog/2020/02/26/3-things-to-know-about-startup-business/
+18:36:50	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/?p=11
+18:36:50	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/?p=11 to https://jthemes.net/themes/wp/bolby/my-account/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 15 seconds : 226 links scanned, 217 files written (9686208 bytes overall) [7886051 bytes received at 58415 bytes/sec], 2485322 bytes transferred using HTTP compression in 109 files, ratio 23%, 12.5 requests per connection
+(4 errors, 13 warnings, 0 messages)

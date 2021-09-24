@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 Sep 2021 10:02:38 at https://lmpixels.com/demo/breezycv/light/1/index.html#resume +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lmpixels.com/demo/breezycv/light/1/index.html#resume -O1 "C:\My Web Sites\saneen" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:02:44	Warning: 	Found for https://lmpixels.com/robots.txt
+10:02:44	Warning: 	File has moved from https://lmpixels.com/robots.txt to https://lmpixels.com/404.shtml
+10:03:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+10:03:01	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/resume (from primary/primary)
+10:03:10	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume (from primary/primary)
+10:03:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/resume (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 0 seconds : 87 links scanned, 82 files written (6765249 bytes overall) [4822660 bytes received at 80377 bytes/sec], 3344995 bytes transferred using HTTP compression in 42 files, ratio 39%, 16.8 requests per connection
+(2 errors, 4 warnings, 0 messages)

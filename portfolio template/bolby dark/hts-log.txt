@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 Sep 2021 18:41:51 at https://jthemes.net/themes/wp/bolby/bolby8/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jthemes.net/themes/wp/bolby/bolby8/ -O1 "C:\My Web Sites\bolby dark" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:42:44	Error: 	"Method Not Allowed" (405) at link https://jthemes.net/themes/wp/bolby/bolby8/xmlrpc.php (from https://jthemes.net/themes/wp/bolby/bolby8/)
+18:43:28	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/webfonts/fa-brands-400.woff2
+18:43:28	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/webfonts/fa-regular-400.woff2
+18:43:28	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/webfonts/fa-solid-900.woff2
+18:43:29	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/fonts/Simple-Line-Icons.woff2?v=2.4.0
+18:43:29	Error: 	"Not Found" (404) at link https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/images/map.svg (from https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/css/style.css?ver=5.7.3)
+18:43:29	Error: 	"Not Found" (404) at link https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/images/map-light.png (from https://jthemes.net/themes/wp/bolby/bolby8/wp-content/themes/bolby/css/style.css?ver=5.7.3)
+18:43:29	Warning: 	File not parsed, looks like binary: https://jthemes.net/themes/wp/bolby/bolby8/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+18:43:29	Error: 	"Not Found" (404) at link https://jthemes.net/themes/wp/bolby/bolby8/2/ (from https://jthemes.net/themes/wp/bolby/bolby8/page/2/)
+18:43:35	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/bolby8/?p=249
+18:43:35	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/bolby8/?p=249 to https://jthemes.net/themes/wp/bolby/bolby8/2020/02/28/5-best-app-development-tool-for-your-project/
+18:43:35	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/bolby8/?p=248
+18:43:35	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/bolby8/?p=248 to https://jthemes.net/themes/wp/bolby/bolby8/2020/02/28/common-misconceptions-about-payment/
+18:43:35	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/bolby8/?p=302
+18:43:35	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/bolby8/?p=302 to https://jthemes.net/themes/wp/bolby/bolby8/2020/02/26/3-things-to-know-about-startup-business/
+18:43:47	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/bolby8/?p=7
+18:43:47	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/bolby8/?p=7 to https://jthemes.net/themes/wp/bolby/bolby8/my-account/
+18:43:47	Warning: 	Moved Permanently for https://jthemes.net/themes/wp/bolby/bolby8/?p=3
+18:43:47	Warning: 	File has moved from https://jthemes.net/themes/wp/bolby/bolby8/?p=3 to https://jthemes.net/themes/wp/bolby/bolby8/woocommerce-placeholder/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 56 seconds : 232 links scanned, 222 files written (9832676 bytes overall) [8015943 bytes received at 69102 bytes/sec], 2514124 bytes transferred using HTTP compression in 111 files, ratio 23%, 15.4 requests per connection
+(4 errors, 15 warnings, 0 messages)
